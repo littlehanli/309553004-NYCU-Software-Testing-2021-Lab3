@@ -1,12 +1,12 @@
 # NYCU-Software-Testing-2021-Lab3-Demo
 
-![image](https://travis-ci.com/littlehanli/309553004-NYCU-Software-Testing-2021-Lab3.svg?branch=main)
-
+[![Build Status](https://travis-ci.com/littlehanli/309553004-NYCU-Software-Testing-2021-Lab3.svg?branch=main)](https://travis-ci.com/littlehanli/309553004-NYCU-Software-Testing-2021-Lab3)
 
 ## Pass case
-![image](https://i.imgur.com/6REKVpW.jpg)
-![image](https://i.imgur.com/rQgQ8X1.jpg)
-
+![image](https://imgur.com/dC7ZeXh.jpg)
+![image](https://imgur.com/zAiwDSN.jpg)
 
 
 ## Fail case
+![image](https://imgur.com/vYcaRWI.jpg)
+![image](https://imgur.com/q6EKvAU.jpg)
